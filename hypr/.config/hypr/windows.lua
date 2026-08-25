@@ -32,6 +32,7 @@ hl.window_rule({
 })
 
 hl.window_rule({
+    name = "float-volume-control",
 	match = {
 		class = "org.pulseaudio.pavucontrol",
 		title = "Volume Control",
@@ -54,4 +55,11 @@ hl.window_rule({
 
     move  = "20 monitor_h-120",
     float = true,
+})
+
+hl.window_rule({
+    name = "more-tranparency-to-kitty",
+    match = {
+        class = "kitty"
+    },
 })
