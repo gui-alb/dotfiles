@@ -20,17 +20,14 @@
 # color15 #fcffb8
 # selection_foreground #1e1e1e
 
-font_family "JetBrainsMono Nerd Font Mono"
+font_family "JetBrainsMone Nerd Font Mono"
 bolf_font auto
 italic_font auto
 bold_italic_font auto
 font_size 11.7
 
-cursor_trail 200
-cursor_trail_decay 0.1 0.4
-cursor_trail_start_threshold 2
 
 # BEGIN_KITTY_THEME
-# Ciapre
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
