@@ -21,6 +21,7 @@ hl.config({
         touchpad = {
             natural_scroll = true,
         },
+        numlock_by_default = true
     },
 })
 
