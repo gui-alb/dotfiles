@@ -1,0 +1,6 @@
+[wallpaper]
+directory = "/home/gui/Images/wallpaper"
+
+[wallpaper.default]
+path = "/home/gui/Images/wallpaper/moon1.jpg"
+
