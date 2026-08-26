@@ -1,0 +1,5 @@
+spawn-at-startup "noctalia"
+
+spawn-sh-at-startup "swaybg -i ~/Images/wallpaper/moon1.jpg"
+
+hotkey-overlay {}
