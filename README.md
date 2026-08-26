@@ -1,3 +1,3 @@
-# My dotfiles ;p
+# My dotfiles
 
-Dotfiles for a config using Hyprland and Niri.
+Dotfiles for a config using Hyprland and Niri + Noctalia.
