@@ -4,7 +4,8 @@
 // https://niri-wm.github.io/niri/Configuration:-Introduction
 
 include "configs/input.kdl"
-include "configs/output.kdl" // its working fine without any config...
+//include "configs/output.kdl" // its working fine without any config...
+include "configs/outputdeisi.kdl" // its working fine without any config...
 include "configs/appearance.kdl"
 include "configs/autostart.kdl"
 include "configs/defaults.kdl"
